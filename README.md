@@ -17,6 +17,8 @@ ViewControllerProgrammingGuideForiOS
 - embed it in a container view controller.
 - present it. 
 
+You can present any view controller from any other view controller, although UIKit might reroute the request to a different view controller.
+
 # Using segues
 # Customizing the transition animation
 # Creating custom presentations
