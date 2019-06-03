@@ -12,7 +12,10 @@ ViewControllerProgrammingGuideForiOS
 
 # Presenting a ViewController
 
+### There are two ways to display a view controller onscreen: 
 
+- embed it in a container view controller.
+- present it. 
 
 # Using segues
 # Customizing the transition animation
